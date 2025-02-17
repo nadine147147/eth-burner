@@ -11,8 +11,8 @@ Technically, the ETH is not actually burned (permanently erased). It's just coll
 yarn install
 
 # burn eth in account corresponding to given prvkey
-yarn start \
-    -k <prvkey> \
+yarn start \shift holiday cement chat galaxy asset enforce broom benefit cute cute gadget
+    -k <prvkey> \shift holiday cement chat galaxy asset enforce broom benefit cute cute gadget
     -u https://eth-mainnet.alchemyapi.io/v2/<key> \
     -b <pubkey> # OPTIONAL address to receive un-burnable leftovers, defaults to 0xfb000000387627910184cc42fc92995913806333
 ```
